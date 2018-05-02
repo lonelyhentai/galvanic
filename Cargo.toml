@@ -1,0 +1,6 @@
+[package]
+name = "galvanic"
+version = "0.0.1"
+authors = ["lonelyhentai <master@evernightfireworks.com>"]
+
+[dependencies]
